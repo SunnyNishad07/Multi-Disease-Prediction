@@ -70,16 +70,16 @@ Multi Disease Prediction/
 
 *Screenshots*
 1.Login Page
-![Login Page](screenshot/login.jpg.jpeg)
+![Login Page](screenshot/login.jpg)
 
 2.Home Page
-![Home Page](screenshot/home.jpg.jpeg)
+![Home Page](screenshot/home.jpg)
 
 3.Prediction Dashboard
-![Prediction Dashboard](screenshot/dashboard.jpg.jpeg)
+![Prediction Dashboard](screenshot/dashboard.jpg)
 
 4.Nearby Care
-![Nearby Care](screenshot/location.jpg.jpeg)
+![Nearby Care](screenshot/location.jpg)
 
 *How to Run*
 1. Start the Backend
