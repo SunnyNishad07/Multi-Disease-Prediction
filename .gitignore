@@ -1,0 +1,19 @@
+#Frontend 
+/frontend/node_modules/
+/frontend/dist/
+
+#Python
+__pycache__/
+*.pyc 
+
+#Environment files
+.evn 
+.venc/
+.venv/
+
+#IDE
+.vscode/
+
+#OS
+.DS_Store
+Thumbs.db
