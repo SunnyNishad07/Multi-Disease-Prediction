@@ -68,19 +68,6 @@ Multi Disease Prediction/
 ├── .gitignore
 └── README.md
 
-*Screenshots*
-1.Login Page
-![Login Page](screenshot/login.jpg.jpeg)
-
-2.Home Page
-![Home Page](screenshot/home.jpg.jpeg)
-
-3.Prediction Dashboard
-![Prediction Dashboard](screenshot/dashboard.jpg.jpeg)
-
-4.Nearby Care
-![Nearby Care](screenshot/location.jpg.jpeg)
-
 *How to Run*
 1. Start the Backend
 From the project root:
